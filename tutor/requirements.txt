@@ -1,5 +1,0 @@
-django
-openai
-openai-agents
-gunicorn
-uvicorn
