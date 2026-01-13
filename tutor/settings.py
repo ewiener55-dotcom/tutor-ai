@@ -33,7 +33,7 @@ SECRET_KEY = 'django-insecure-92sl^a*3cdy49-yiy)cc#8p$u&#d@r91c8n27j#ebsm4hdg@!!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["127.0.0.1", "localhost", "tutor-ai-5ron.onrender.com"]
 
 
 # Application definition
@@ -124,3 +124,4 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/6.0/howto/static-files/
 
 STATIC_URL = 'static/'
+
